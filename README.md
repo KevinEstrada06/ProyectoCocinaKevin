@@ -103,5 +103,5 @@ Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo libremente
 ## Contacto
 
 **Autor:** Kevin Estrada  
-**Correo:** kevin.estrada@example.com
+**Correo:** kevin.estrada@live.u-tad.com
 
